@@ -1,0 +1,49 @@
+{
+  "cards": [
+    {
+      "cardNumber": "001",
+      "name": "Darth Vader – Dark Lord of the Sith",
+      "type": "Leader",
+      "side": "Dark",
+      "set": "Spark of Rebellion",
+      "faction": "Empire",
+      "rarity": "Legendary"
+    },
+    {
+      "cardNumber": "002",
+      "name": "Luke Skywalker – Jedi Knight",
+      "type": "Leader",
+      "side": "Hero",
+      "set": "Spark of Rebellion",
+      "faction": "Rebel",
+      "rarity": "Legendary"
+    },
+    {
+      "cardNumber": "003",
+      "name": "Stormtrooper",
+      "type": "Unit",
+      "side": "Dark",
+      "set": "Spark of Rebellion",
+      "faction": "Empire",
+      "rarity": "Common"
+    },
+    {
+      "cardNumber": "004",
+      "name": "X-Wing",
+      "type": "Unit",
+      "side": "Hero",
+      "set": "Spark of Rebellion",
+      "faction": "Rebel",
+      "rarity": "Uncommon"
+    },
+    {
+      "cardNumber": "005",
+      "name": "Force Choke",
+      "type": "Event",
+      "side": "Dark",
+      "set": "Spark of Rebellion",
+      "faction": "Empire",
+      "rarity": "Rare"
+    }
+  ]
+}
